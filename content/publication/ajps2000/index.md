@@ -24,8 +24,8 @@ abstract: "In this article I argue that much of the inconsistency in the scholar
 # Summary. An optional shortened abstract.
 summary: "In this article I argue that much of the inconsistency in the scholarly literature on conflict escalation can be attributed to selection bias. To control this bias statistically, I use a censored probit model to evaluate hypotheses about conflict escalation over the time period of 1950-1985. I report four results. (1) Power parity and economic development are found to influence conflict nonmonotonically (2) Although joint democracy and joint satisfaction with the status quo are found to have robust pacifying effects on the onset of conflict, the results suggest that they are unrelated to the escalation of disputes to war. (3) Allied pairs of states appear less likely to escalate their disputes. (4) Finally, the unified model suggests that it is essential for researchers interested in the escalation behavior of states to consider first how states become involved in disputes. Conflict onset and escalation appear to be related processes"
 
-tags: [Civil War]
-categories: [Civil War]
+tags: []
+categories: []
 featured: true
 
 # Custom links (optional).
