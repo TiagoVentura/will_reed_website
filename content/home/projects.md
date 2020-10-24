@@ -26,8 +26,8 @@ subtitle = ""
      tag = "*"
   
   [[content.filter_button]]
-     name = "International Politics"
-     tag = "International Politics"
+     name = "Civil War"
+     tag = "Civil War"
   
   [[content.filter_button]]
      name = "Game theory"
